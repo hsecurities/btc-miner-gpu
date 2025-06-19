@@ -14,7 +14,7 @@ IMPORTANT: A screenshot or GIF is the most effective way to attract users.
 Record a short GIF of the miner in action (showing the dark theme, hashrate, and maybe the gadget) 
 and replace the link below.
 -->
-![hMiner Screenshot](https://s7.ezgif.com/tmp/ezgif-798c15679dc8cc.gif)
+![hMiner Screenshot](https://s3.ezgif.com/tmp/ezgif-3568fdc21bafba.gif)
 
 ## Why Choose hMiner?
 
