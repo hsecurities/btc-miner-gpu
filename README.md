@@ -14,7 +14,7 @@ IMPORTANT: A screenshot or GIF is the most effective way to attract users.
 Record a short GIF of the miner in action (showing the dark theme, hashrate, and maybe the gadget) 
 and replace the link below.
 -->
-![hMiner Screenshot](https://github.com/hsecurities/btc-miner-gpu/blob/main/image_2026-08-11_115954806.png?raw=true)
+![hMiner Screenshot](https://github.com/hsecurities/btc-miner-gpu/blob/main/image_2026-08-11_120316979.png?raw=true)
 
 ## Why Choose hMiner?
 
