@@ -38,7 +38,7 @@ Whether you have a powerful NVIDIA gaming GPU or just want to use your computer'
 
 Ready to start mining? Get the latest official and secure release from our website.
 
-<a href="https://shop.hsecurities.in/product/optimize-your-bch-mining-with-hminer-a-high-performance-easy-to-use-cryptocurrency-mining-software-mffbx" target="_blank">
+<a href="https://shop.hsecurities.in/product/optimize-your-bch-mining-with-hminer-a-high-performance-easy-to-use-cryptocurrency-mining-software-gpu-only-mkrz4" target="_blank">
   <img src="https://img.shields.io/badge/Download_hMiner_Now-282c34?style=for-the-badge&logo=windows&logoColor=white" alt="Download hMiner Now">
 </a>
 
