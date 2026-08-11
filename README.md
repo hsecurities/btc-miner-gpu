@@ -67,7 +67,7 @@ Ready to start mining? Get the latest official and secure release from our websi
 
 Getting started is as easy as 1-2-3!
 
-1.  **Download:** Get the `hMiner_GPU.zip` or `hMiner_CPU.zip` from our [official website](https://shop.hsecurities.in/product/optimize-your-bch-mining-with-hminer-a-high-performance-easy-to-use-cryptocurrency-mining-software-mffbx).
+1.  **Download:** Get the `hMiner_GPU.zip` or `hMiner_CPU.zip` from our [official website](https://shop.hsecurities.in/product/optimize-your-bch-mining-with-hminer-a-high-performance-easy-to-use-cryptocurrency-mining-software-gpu-only-mkrz4).
 2.  **Unzip:** Extract the files to a folder on your computer.
 3.  **Run & Configure:**
     *   Double-click the `hMiner_GPU.exe` or `hMiner_CPU.exe`.
